@@ -1,4 +1,4 @@
 # LearnGithub
 Learning Git
 <br>
-Author Nikki Burnwal
+Author Nikki Kumari Burnwal
